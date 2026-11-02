@@ -12,7 +12,7 @@ Machine Learning, and turning data into useful insights.
 - 💡 Interested in solving real-world problems with data
 - 🎯 Looking for Data Science and Machine Learning internship opportunities
 - 🌐 Portfolio: Add your deployed portfolio URL here
-- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/shardul-bhosale-21s24z30)
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/shardul-bhosale05)
 
 ---
 
