@@ -7,11 +7,13 @@ I'm a third-year Computer Science Engineering student specializing in
 Artificial Intelligence and Machine Learning, interested in Data Science,
 Machine Learning, and turning data into useful insights.
 
+[🌐 View My Portfolio](https://shardul-portfolio-seven.vercel.app)
+
 - 🔭 Currently working on **IPL Score Prediction**
 - 🌱 Learning Data Science, Machine Learning, SQL, and data visualization
 - 💡 Interested in solving real-world problems with data
 - 🎯 Looking for Data Science and Machine Learning internship opportunities
-- 🌐 Portfolio: Add your deployed portfolio URL here
+- 🌐 Portfolio: [Visit my Portfolio](https://shardul-portfolio-seven.vercel.app)
 - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/shardul-bhosale05)
 
 ---
